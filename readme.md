@@ -1,3 +1,8 @@
+IMPORTANT
+=========
+
+This is a copy of garotosopa's xodo repository since he deleted the repo.  Do not bother him with pull requests, bugs, etc!  Of course, the original copyright stays intact!
+
 xodo
 ====
 
